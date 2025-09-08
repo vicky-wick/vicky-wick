@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1536" height="1024" alt="ChatGPT Image Sep 8, 2025, 04_37_36 PM" src="https://github.com/user-attachments/assets/c26e71e5-0277-45df-b918-382ad7c53696" />
+<img width="600" height="400" alt="ChatGPT Image Sep 8, 2025, 04_37_36 PM" src="https://github.com/user-attachments/assets/c26e71e5-0277-45df-b918-382ad7c53696" />
 
 ## 🎯 What I’m Working On  
 - Building **side projects** that can turn into startups 💡  
