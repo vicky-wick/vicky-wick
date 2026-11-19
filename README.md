@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="wickgotballs — BUILD / BREAK / LEARN / REPEAT" width="100%" />
+<img src="banner.svg" alt="vicky-wick — BUILD / BREAK / LEARN / REPEAT" width="100%" />
 
 # VIKASH KUMAR ADHIKARI
 
